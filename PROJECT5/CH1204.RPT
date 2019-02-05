@@ -1,0 +1,15 @@
+            registration report //////////            page:01
+                    author: Jonathan Yen
+vehicle class              name                         weight          fee
+      A1     ALLAN, GERALD P.                            3,750        $ 1,687.50
+      A1     BAKKER FINCH, JOSEPH                        2,500        $ 1,125.00
+      A3     CARDWELL, MARY ANNE                         3,450        $ 2,587.50
+      A1     DORSEY, ALLEN M. NE                         3,000        $ 1,350.00
+      B1     NOLAN, LINDSEY J. E                         2,950        $ 2,950.00
+      B3     REDFORD, CHERYLJ. E                         4,600        $ 5,060.00
+      C3     JOHNSON, PATRICK J.                         4,500        $ 3,375.00
+      A2     MARSHALL, AARONK J.                         3,432        $ 2,230.80
+      D3     SEAGRAM, TERESA E.                          3,980        $ 4,378.00
+      X2     SIMON, PAUL D.  E.                          3,999        $ 3,839.04
+      M6     MACK, ROBERTD.  E.                         17,300        $11,591.00
+               total registration fees: $28,582.84

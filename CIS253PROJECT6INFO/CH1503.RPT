@@ -1,0 +1,31 @@
+
+
+
+
+
+
+                         control listing of master payroll records 04/20/20 page 01                                        author: Jon Yen
+
+
+        employee no  employee name         terr no     office no    old annual salary    new annual salary
+
+            00001      ADAMSON                01        01              $ 40,000          $ 42,000
+            00002      BAKER                  01        01              $ 50,000          $ 52,500
+            00003      CARTWELL               01        01              $100,000          $105,000
+            00004      DORSEY                 01        01              $ 45,000          $ 47,250
+            00005      HAMMOND                01        02              $ 50,000          $ 52,500
+            00006      NOLTE                  01        02              $ 45,000          $ 47,250
+            00007      REDFORD                01        02              $ 48,000          $ 50,400
+            00008      JOHNKE                 02        01              $ 55,000          $ 57,750
+            00009      WHITE                  02        01              $ 59,000          $ 61,950
+            00010      MARSHALL               02        01              $ 53,000          $ 55,650
+            00011      EISEN                  02        01              $ 50,000          $ 52,500
+            00012      SAGER                  02        02              $ 68,000          $ 71,400
+            00013      STERN                  02        02              $ 68,000          $ 71,400
+            00014      SUMMERS                02        02              $ 67,500          $ 70,875
+            00015      JONES                  03        01              $ 40,000          $ 42,000
+            00016      JOHNSON                03        01              $100,000          $105,000
+            00017      NOLAN                  03        01              $ 44,750          $ 46,987
+            00018      CANTWELL               03        02              $ 68,250          $ 71,662
+            00019      SMITH                  03        02              $ 75,000          $ 78,750
+            00020      HAMMEL                 03        02              $ 59,100          $ 62,055                         annual salary totals:                        $1,185,600          $1,244,879

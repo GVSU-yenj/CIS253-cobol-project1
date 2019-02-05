@@ -1,0 +1,5 @@
+W:\PROJECT5\PROJECT5\obj\Debug\PROJECT5.cblprojResolveAssemblyReference.cache
+W:\PROJECT5\PROJECT5\bin\Debug\PROJECT5.exe
+W:\PROJECT5\PROJECT5\bin\Debug\PROJECT5.pdb
+W:\PROJECT5\PROJECT5\obj\Debug\PROJECT5.exe
+W:\PROJECT5\PROJECT5\obj\Debug\PROJECT5.pdb

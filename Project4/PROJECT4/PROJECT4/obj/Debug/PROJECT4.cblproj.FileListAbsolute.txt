@@ -1,0 +1,10 @@
+W:\Project 4\PROJECT4\PROJECT4\bin\Debug\PROJECT4.exe
+W:\Project 4\PROJECT4\PROJECT4\bin\Debug\PROJECT4.pdb
+W:\Project 4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.cblprojResolveAssemblyReference.cache
+W:\Project 4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.exe
+W:\Project 4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.pdb
+W:\Project4\PROJECT4\PROJECT4\bin\Debug\PROJECT4.exe
+W:\Project4\PROJECT4\PROJECT4\bin\Debug\PROJECT4.pdb
+W:\Project4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.cblprojResolveAssemblyReference.cache
+W:\Project4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.exe
+W:\Project4\PROJECT4\PROJECT4\obj\Debug\PROJECT4.pdb
